@@ -1,0 +1,10 @@
+name = "Testing Theme"
+license = "MIT"
+description = "Learning basic rules and fail`s structure Hugo"
+tags = []
+features = []
+min_version = "0.25.1"
+
+[author]
+  name = "Anatolii Bas"
+  homepage = "/"
