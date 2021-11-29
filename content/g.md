@@ -6,5 +6,7 @@ draft: true
 tags: ["tag1"]
 categories: ["catgory1"]
 moods: ["Happy"]
+color: blue
 ---
 
+{{<myshortcode>}}

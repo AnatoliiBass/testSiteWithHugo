@@ -5,6 +5,7 @@ draft: true
 tags: ["tag1", "tag2", "tag3"]
 categories: ["catgory1"]
 moods: ["Happy", "Sad"]
+color: red
 ---
 This is a.md
 

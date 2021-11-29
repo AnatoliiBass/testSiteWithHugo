@@ -6,5 +6,7 @@ draft: true
 tags: ["tag3"]
 categories: ["catgory2"]
 moods: ["Sad"]
+color: yellow
 ---
 
+{{<myshortcode pink>}}
